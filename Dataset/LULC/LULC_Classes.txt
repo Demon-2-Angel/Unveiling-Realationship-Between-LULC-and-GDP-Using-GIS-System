@@ -1,0 +1,21 @@
+Value			Description
+####################################
+
+1			Built-up
+2			Kharif Crop
+3			Rabi Crop
+4			Zaid Crop
+5			Double/Triple/Annual Crop
+6			Current Fallow
+7			Plantation/Orchard
+8			Evergreen/Semi-Evergreen woodland
+9			Deciduous woodland
+10			Degraded woodland
+11			Littoral/Swamp/Mangroves
+12			Grassland
+13			Shifting Cultivation
+14			Wasteland
+15			Rann
+16			Waterbodies max spread
+17			Waterbodies min spread
+18			Snow Cover/Glacial areas
